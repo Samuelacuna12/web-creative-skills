@@ -1,0 +1,51 @@
+THIRD-PARTY NOTICES
+
+This private backup preserves selected third-party agent skills without changing their contents.
+Each source retains its own license. No single new license is applied to the collection.
+The source repository and exact commit for every skill and file are recorded in sources.lock.json.
+
+GSAP oficial
+Source: https://github.com/greensock/gsap-skills/tree/aed9cfd3277740755f6bfc1155c7aa645403b760
+Commit: aed9cfd3277740755f6bfc1155c7aa645403b760
+Skills: gsap-core, gsap-timeline, gsap-scrolltrigger, gsap-plugins, gsap-utils, gsap-react, gsap-performance, gsap-frameworks
+Original license evidence: third-party/greensock--gsap-skills/LICENSE
+License: MIT
+Copyright (c) 2026 GreenSock
+The complete original copyright and permission notice are preserved in the file above.
+
+Interfaces
+Source: https://github.com/jakubkrehel/skills/tree/f41f027797f77cb1594a5c718aeee3e6a7fe99ba
+Commit: f41f027797f77cb1594a5c718aeee3e6a7fe99ba
+Skills: better-ui, explain-interface, better-typography, better-colors, better-layout, better-accessibility, better-writing, better-interface
+Original license evidence: third-party/jakubkrehel--skills/LICENSE
+License: MIT
+Copyright (c) 2026 Jakub Krehel
+The complete original copyright and permission notice are preserved in the file above.
+
+Animación — Emil Kowalski
+Source: https://github.com/emilkowalski/skills/tree/c8a79627b59d72d764d6ab6f2c87c09a48169833
+Commit: c8a79627b59d72d764d6ab6f2c87c09a48169833
+Skills: animate, choreograph, review-animations, improve-animations, find-animation-opportunities, remove-animations, animation-performance, animation-vocabulary, pick-ui-library
+Original license evidence: third-party/emilkowalski--skills/LICENSE
+License: MIT
+Copyright (c) 2026 Emil Kowalski
+The complete original copyright and permission notice are preserved in the file above.
+
+React Three Fiber — 3D
+Source: https://github.com/EnzeD/r3f-skills/tree/4a11805f097396fb0b893172efd1e359e8051f92
+Commit: 4a11805f097396fb0b893172efd1e359e8051f92
+Skills: r3f-fundamentals, r3f-geometry, r3f-materials, r3f-lighting, r3f-textures, r3f-loaders, r3f-animation, r3f-shaders, r3f-postprocessing, r3f-interaction, r3f-physics
+Original license evidence: third-party/EnzeD--r3f-skills/README.md
+The pinned source has no LICENSE/COPYING file. Its original README declares:
+MIT — use freely in your projects.
+The README is preserved verbatim. No substitute license file has been created.
+
+Spline oficial
+Source: https://github.com/splinetool/spline-skills/tree/bc6608b9e0df289ebd5c2e3a9f7c83c18ff1ece9
+Commit: bc6608b9e0df289ebd5c2e3a9f7c83c18ff1ece9
+Skills: spline
+Original license evidence: third-party/splinetool--spline-skills/LICENSE
+License: MIT
+Copyright (c) 2026 Spline
+The complete original copyright and permission notice are preserved in the file above.
+
